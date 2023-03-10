@@ -1,0 +1,86 @@
+
+@import url(https://fonts.googleapis.com/css?family=Anton);
+
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-style:oblique;
+    font-size: 60px;
+    color: #b4b222;
+    text-shadow: 3px 3px 10px #000000;
+    
+}
+header {
+    padding: 10px;
+    background-color: #40b0a680;
+    color: black;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 20px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+
+}
+main {
+    background-color:#ffe4c4;
+    border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+    padding: 10px;
+}
+footer {
+    background-color: #40b0a680;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: left;
+    border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+    padding: 7px;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+a {
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 30px;
+}
+a:hover {
+    color: #ff0000;
+    text-decoration: none;
+}
+li.portfolio {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    padding-top: 20px;
+}
+li.contact {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    
+}
+ul {
+    display: inline-block; 
+}
+hr {
+    height: 2px;
+    background-color: #000000;
+}
+iframe {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+

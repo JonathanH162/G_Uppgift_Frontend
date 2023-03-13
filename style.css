@@ -10,26 +10,26 @@ h1 {
     font-family: 'Anton', sans-serif;
     font-style:oblique;
     font-size: 60px;
-    color: #b4b222;
+    color: #37a580;
     text-shadow: 3px 3px 10px #000000;
     
 }
 header {
     padding: 10px;
-    background-color: #40b0a680;
-    color: black;
+    background-color: #f4a688;
+    color: #000000;
 	font-family: 'Courier New', Courier, monospace;
 	font-size: 20px;
 	border-radius: 10px;
 
 }
 main {
-    background-color:#ffe4c4;
+    background-color:#fbefcc;
     border-radius: 10px;
     padding: 30px;
 }
 footer {
-    background-color: #40b0a680;
+    background-color: #f4a688;
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
     text-align: left;
@@ -72,6 +72,12 @@ div {
     padding: 80px;
     border-radius: 10px;
     margin: 5px 300px;
+}
+img.Porträtt {
+    border-radius: 50%;
+}
+img {
+    border-radius: 25%;
 }
 
 
